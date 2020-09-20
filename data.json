@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "5f66f1d9c84a484faca49564"
+  },
+  "src": "./images/phone.jpg",
+  "header": "Apple",
+  "caption": "Smartphone",
+  "count": 1
+},{
+  "_id": {
+    "$oid": "5f66f290c84a484faca49565"
+  },
+  "src": "./images/monopoly.jpg",
+  "header": "Hasbro",
+  "caption": "Board Game",
+  "count": 1
+},{
+  "_id": {
+    "$oid": "5f66f2b3c84a484faca49566"
+  },
+  "src": "./images/led.jpg",
+  "header": "Surya",
+  "caption": "LED",
+  "count": 1
+},{
+  "_id": {
+    "$oid": "5f66f2d0c84a484faca49567"
+  },
+  "src": "./images/cooker.jpg",
+  "header": "Prestige",
+  "caption": "Cooker",
+  "count": 1
+},{
+  "_id": {
+    "$oid": "5f66f2e2c84a484faca49568"
+  },
+  "src": "./images/notebook.jpg",
+  "header": "LNG",
+  "caption": "Notebook",
+  "count": 1
+}]
